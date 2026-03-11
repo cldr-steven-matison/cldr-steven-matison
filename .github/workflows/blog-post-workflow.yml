@@ -27,14 +27,20 @@ jobs:
           max_post_count: 4
           # We use "template" to define the div structure
           template: |
-            <td width="50%" align="left" valign="top">
-              <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 5px; height: 180px;">
-                <a href="$url" style="text-decoration: none; color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 14px; font-weight: 600;">
-                  $title
-                </a>
-                <p></p>
-                <a href="$url">
-                  <img src="$postImage" width="180px" style="border-radius: 6px; border: 1px solid #30363d;" alt="$title" />
-                </a>
-              </div>
-            </td>
+            <table border="0" style="border: 1px solid #30363d; border-radius: 6px; width: 100%; margin-bottom: 10px; border-collapse: separate; padding: 10px;">
+              <tr>
+                <td width="200px" valign="top">
+                  <a href="$url">
+                    <img src="$postImage" width="200px" style="border-radius: 4px; border: 1px solid #30363d;" alt="$title" />
+                  </a>
+                </td>
+                <td align="left" valign="top" style="padding-left: 15px;">
+                  <a href="$url" style="text-decoration: none; color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 16px; font-weight: 600;">
+                    $title
+                  </a>
+                  <p style="color: #8b949e; font-size: 14px; margin-top: 8px; line-height: 1.4;">
+                    $description
+                  </p>
+                </td>
+              </tr>
+            </table>
