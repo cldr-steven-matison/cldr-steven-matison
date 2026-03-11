@@ -1,8 +1,13 @@
 name: Latest blog post workflow
 on:
+  push:
+    branches:
+      - main
   schedule:
+    # Runs once a day at 00:00 UTC
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual trigger
+
 permissions:
   contents: write
 
@@ -13,29 +18,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://cldr-steven-matison.github.io/feed.xml"
           custom_tags: "postImage/image/"
-          # ADD THESE TWO LINES:
-          commas: " "
-          stacking: "grid"
-          columns: 2
-          # THEN YOUR TEMPLATE:
+          max_post_count: 4
+          # We use "template" to define the div structure
           template: |
-            <table border="0">
-              <tr>
-                <td width="50%" valign="top">
-                  <a href="$url">
-                    <img src="$postImage" style="width:100%; border-radius: 6px; border: 1px solid #30363d;" alt="$title" />
-                  </a>
-                  <br />
-                  <a href="$url">
-                    <img src="https://img.shields.io/badge/-Blog%20Post-gray?style=flat-square" alt="tag" />
-                  </a>
-                  <br />
-                  <a href="$url"><strong>$title</strong></a>
-                </td>
-              </tr>
-            </table>
+            <div style="display: inline-block; width: 49%; vertical-align: top; margin-bottom: 20px;">
+              <a href="$url">
+                <img src="$postImage" style="width: 100%; border-radius: 6px; border: 1px solid #30363d;" alt="$title" />
+              </a>
+              <br />
+              <a href="$url">
+                <img src="https://img.shields.io/badge/-Blog%20Post-gray?style=flat-square" alt="tag" />
+              </a>
+              <br />
+              <a href="$url"><strong>$title</strong></a>
+            </div>
