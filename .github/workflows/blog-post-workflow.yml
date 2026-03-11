@@ -1,10 +1,12 @@
 name: Latest blog post workflow
 on:
   schedule:
+    # Runs once a day at 00:00 UTC
     - cron: '0 0 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Allows you to run it manually from the Actions tab
+
 permissions:
-  contents: write
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme-with-blog:
@@ -13,17 +15,24 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in posts
+        
+      - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          # Your specific GitHub Pages feed
           feed_list: "https://cldr-steven-matison.github.io/feed.xml"
-          # This template forces the image to show and makes the title a link
+          
+          # This maps the <image> tag in your feed to the $postImage variable
+          custom_tags: "postImage/image/"
+          
+          # This template creates the clickable image and the bold title
           template: |
             <a href="$url">
-              <img src="$postImage" width="400px" alt="$title" />
+              <img src="$postImage" width="400px" alt="$title" onerror="this.alt='Image not found'" />
             </a>
             <br/>
             <a href="$url"><b>$title</b></a>
             <br/><br/>
-          # Ensures each post starts on a new line
+            
+          # Ensures formatting stays clean
           tag_post_pre_newline: true
