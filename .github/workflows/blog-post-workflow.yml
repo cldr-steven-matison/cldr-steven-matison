@@ -17,12 +17,17 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://cldr-steven-matison.github.io/feed.xml"
-          # Since we put it in an <image> tag in the step above:
           custom_tags: "postImage/image/"
+          # ADD THESE TWO LINES:
+          commas: " "
+          stacking: "grid"
+          columns: 2
+          # THEN YOUR TEMPLATE:
           template: |
-            <a href="$url">
-              <img src="$postImage" width="400px" alt="$title" />
-            </a>
-            <br/>
-            <a href="$url"><b>$title</b></a>
-            <br/><br/>
+            <div align="center">
+              <a href="$url">
+                <img src="$postImage" width="100%" style="border-radius: 6px; border: 1px solid #30363d;" />
+                <br />
+                <strong>$title</strong>
+              </a>
+            </div>
