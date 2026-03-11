@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://komarev.com/ghpvc/?username=clrd-steven-matison" alt="cldr-steven-matison" />
 Recent Blog Posts:
-<!-- BLOG-POST-LIST:START --><table width="100%">
+<!-- BLOG-POST-LIST:START --><table>
 <tr>
-<td valign="top">
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io//assets/images/surveyor.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -26,9 +26,9 @@ Recent Blog Posts:
 </p>
 </td>
 </tr>
-</table><table width="100%">
+</table><table>
 <tr>
-<td valign="top">
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Analytics-Kubernetes-Operator-1.5/"><img src="https://cldr-steven-matison.github.io//assets/images/csa-architecture.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -39,9 +39,9 @@ Recent Blog Posts:
 </p>
 </td>
 </tr>
-</table><table width="100%">
+</table><table>
 <tr>
-<td valign="top">
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-Kubernetes-Operator-3.0/"><img src="https://cldr-steven-matison.github.io//assets/images/kubernetes-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -52,9 +52,9 @@ Recent Blog Posts:
 </p>
 </td>
 </tr>
-</table><table width="100%">
+</table><table>
 <tr>
-<td valign="top">
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-3.0-For-Cloudera-On-Cloud/"><img src="https://cldr-steven-matison.github.io//assets/images/clouderadataflow.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -65,9 +65,9 @@ Recent Blog Posts:
 </p>
 </td>
 </tr>
-</table><table width="100%">
+</table><table>
 <tr>
-<td valign="top">
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io//blog/Surveyor/"><img src="https://cldr-steven-matison.github.io//assets/images/surveyor.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
