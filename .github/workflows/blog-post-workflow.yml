@@ -29,7 +29,7 @@ jobs:
           template: |
             <div style="display: inline-block; width: 48%; min-width: 280px; vertical-align: top; margin-bottom: 20px;">
               <a href="$url">
-                <img src="$postImage" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 6px; border: 1px solid #30363d;" alt="$title" />
+                <img src="$postImage" style="width: 320px; object-fit: cover; border-radius: 6px; border: 1px solid #30363d;" alt="$title" />
               </a>
               <br />
               <a href="$url"><strong>$title</strong></a>
