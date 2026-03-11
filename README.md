@@ -12,7 +12,7 @@ cldr-steven-matison/cldr-steven-matison is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://komarev.com/ghpvc/?username=clrd-steven-matison" alt="cldr-steven-matison" />
-# Blog posts
+Recent Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Cloudera Streaming Operators](https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Operators/)
 - [Cloudera Streaming Analytics Operator for Kubernetes 1.5](https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Analytics-Kubernetes-Operator-1.5/)
