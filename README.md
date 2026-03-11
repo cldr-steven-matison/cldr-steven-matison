@@ -13,48 +13,44 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://komarev.com/ghpvc/?username=clrd-steven-matison" alt="cldr-steven-matison" />
 Recent Blog Posts:
-<!-- BLOG-POST-LIST:START --><div style="display: inline-block; width: 48%; min-width: 300px; height: 160px; vertical-align: top; margin-bottom: 12px; margin-right: 8px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background-color: transparent; box-sizing: border-box;">
-  <div style="display: flex; flex-direction: column; height: 100%;">
-    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Operators/" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 14px; margin-bottom: 8px; display: block; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; line-height: 1.5;">
+<!-- BLOG-POST-LIST:START --><td width="50%" align="left" valign="top">
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 5px; height: 180px;">
+    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Operators/" style="text-decoration: none; color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 14px; font-weight: 600;">
       Cloudera Streaming Operators
     </a>
-    <div style="margin-top: auto;">
-      <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Operators/">
-        <img src="https://cldr-steven-matison.github.io//assets/images/surveyor.png" style="width: 120px; aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; border: 1px solid #30363d;" alt="Cloudera Streaming Operators" />
-      </a>
-    </div>
+    <p></p>
+    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Operators/">
+      <img src="https://cldr-steven-matison.github.io//assets/images/surveyor.png" width="180px" style="border-radius: 6px; border: 1px solid #30363d;" alt="Cloudera Streaming Operators" />
+    </a>
   </div>
-</div><div style="display: inline-block; width: 48%; min-width: 300px; height: 160px; vertical-align: top; margin-bottom: 12px; margin-right: 8px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background-color: transparent; box-sizing: border-box;">
-  <div style="display: flex; flex-direction: column; height: 100%;">
-    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Analytics-Kubernetes-Operator-1.5/" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 14px; margin-bottom: 8px; display: block; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; line-height: 1.5;">
+</td><td width="50%" align="left" valign="top">
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 5px; height: 180px;">
+    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Analytics-Kubernetes-Operator-1.5/" style="text-decoration: none; color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 14px; font-weight: 600;">
       Cloudera Streaming Analytics Operator for Kubernetes 1.5
     </a>
-    <div style="margin-top: auto;">
-      <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Analytics-Kubernetes-Operator-1.5/">
-        <img src="https://cldr-steven-matison.github.io//assets/images/csa-architecture.png" style="width: 120px; aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; border: 1px solid #30363d;" alt="Cloudera Streaming Analytics Operator for Kubernetes 1.5" />
-      </a>
-    </div>
+    <p></p>
+    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Analytics-Kubernetes-Operator-1.5/">
+      <img src="https://cldr-steven-matison.github.io//assets/images/csa-architecture.png" width="180px" style="border-radius: 6px; border: 1px solid #30363d;" alt="Cloudera Streaming Analytics Operator for Kubernetes 1.5" />
+    </a>
   </div>
-</div><div style="display: inline-block; width: 48%; min-width: 300px; height: 160px; vertical-align: top; margin-bottom: 12px; margin-right: 8px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background-color: transparent; box-sizing: border-box;">
-  <div style="display: flex; flex-direction: column; height: 100%;">
-    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-Kubernetes-Operator-3.0/" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 14px; margin-bottom: 8px; display: block; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; line-height: 1.5;">
+</td><td width="50%" align="left" valign="top">
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 5px; height: 180px;">
+    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-Kubernetes-Operator-3.0/" style="text-decoration: none; color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 14px; font-weight: 600;">
       Cloudera Flow Management Operator for Kubernetes 3.0
     </a>
-    <div style="margin-top: auto;">
-      <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-Kubernetes-Operator-3.0/">
-        <img src="https://cldr-steven-matison.github.io//assets/images/kubernetes-logo.png" style="width: 120px; aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; border: 1px solid #30363d;" alt="Cloudera Flow Management Operator for Kubernetes 3.0" />
-      </a>
-    </div>
+    <p></p>
+    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-Kubernetes-Operator-3.0/">
+      <img src="https://cldr-steven-matison.github.io//assets/images/kubernetes-logo.png" width="180px" style="border-radius: 6px; border: 1px solid #30363d;" alt="Cloudera Flow Management Operator for Kubernetes 3.0" />
+    </a>
   </div>
-</div><div style="display: inline-block; width: 48%; min-width: 300px; height: 160px; vertical-align: top; margin-bottom: 12px; margin-right: 8px; border: 1px solid #30363d; border-radius: 6px; padding: 16px; background-color: transparent; box-sizing: border-box;">
-  <div style="display: flex; flex-direction: column; height: 100%;">
-    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-3.0-For-Cloudera-On-Cloud/" style="text-decoration: none; color: #58a6ff; font-weight: 600; font-size: 14px; margin-bottom: 8px; display: block; overflow: hidden; text-overflow: ellipsis; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; line-height: 1.5;">
+</td><td width="50%" align="left" valign="top">
+  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; margin: 5px; height: 180px;">
+    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-3.0-For-Cloudera-On-Cloud/" style="text-decoration: none; color: #58a6ff; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; font-size: 14px; font-weight: 600;">
       Cloudera Data Flow 3.0 for Cloudera on Cloud
     </a>
-    <div style="margin-top: auto;">
-      <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-3.0-For-Cloudera-On-Cloud/">
-        <img src="https://cldr-steven-matison.github.io//assets/images/clouderadataflow.png" style="width: 120px; aspect-ratio: 16/9; object-fit: cover; border-radius: 4px; border: 1px solid #30363d;" alt="Cloudera Data Flow 3.0 for Cloudera on Cloud" />
-      </a>
-    </div>
+    <p></p>
+    <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-3.0-For-Cloudera-On-Cloud/">
+      <img src="https://cldr-steven-matison.github.io//assets/images/clouderadataflow.png" width="180px" style="border-radius: 6px; border: 1px solid #30363d;" alt="Cloudera Data Flow 3.0 for Cloudera on Cloud" />
+    </a>
   </div>
-</div><!-- BLOG-POST-LIST:END -->
+</td><!-- BLOG-POST-LIST:END -->
