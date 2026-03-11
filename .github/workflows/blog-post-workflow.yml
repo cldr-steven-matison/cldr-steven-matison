@@ -27,13 +27,9 @@ jobs:
           max_post_count: 4
           # We use "template" to define the div structure
           template: |
-            <div style="display: inline-block; width: 49%; vertical-align: top; margin-bottom: 20px;">
+            <div style="display: inline-block; width: 48%; min-width: 280px; vertical-align: top; margin-bottom: 20px;">
               <a href="$url">
-                <img src="$postImage" style="width: 100%; border-radius: 6px; border: 1px solid #30363d;" alt="$title" />
-              </a>
-              <br />
-              <a href="$url">
-                <img src="https://img.shields.io/badge/-Blog%20Post-gray?style=flat-square" alt="tag" />
+                <img src="$postImage" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; border-radius: 6px; border: 1px solid #30363d;" alt="$title" />
               </a>
               <br />
               <a href="$url"><strong>$title</strong></a>
