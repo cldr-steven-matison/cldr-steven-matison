@@ -14,4 +14,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://komarev.com/ghpvc/?username=clrd-steven-matison" alt="cldr-steven-matison" />
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudera Streaming Operators](https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Operators/)
+- [Cloudera Streaming Analytics Operator for Kubernetes 1.5](https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Analytics-Kubernetes-Operator-1.5/)
+- [Cloudera Flow Management Operator for Kubernetes 3.0](https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-Kubernetes-Operator-3.0/)
+- [Cloudera Data Flow 3.0 for Cloudera on Cloud](https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-3.0-For-Cloudera-On-Cloud/)
+- [Cloudera Streams Messaging - Surveyor](https://cldr-steven-matison.github.io//blog/Surveyor/)
 <!-- BLOG-POST-LIST:END -->
