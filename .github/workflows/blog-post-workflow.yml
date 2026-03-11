@@ -27,9 +27,9 @@ jobs:
           tag_post_pre_newline: false
           # The template below has ZERO leading spaces for the HTML tags
           template: |
-            <table width="100%">
+            <table>
             <tr>
-            <td valign="top">
+            <td width="200" valign="top">
             <a href="$url"><img src="$postImage" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
             </td>
             <td align="left" valign="top" style="padding-left:10px;">
