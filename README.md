@@ -17,6 +17,19 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io//blog/NiFi-Kafka-Flink-on-Kubernetes/"><img src="https://cldr-steven-matison.github.io//assets/images/k9s-full-stack.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io//blog/NiFi-Kafka-Flink-on-Kubernetes/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">NiFi Kafka and Flink on Kubernetes</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">:warning: Danger! This is a Work in Progress article, content and code is updating frequently until this notice is removed.
+
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io//assets/images/surveyor.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -62,19 +75,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-3.0-For-Cloudera-On-Cloud/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Flow 3.0 for Cloudera on Cloud</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">The Data In Motion Team is pleased to announce the release of Cloudera Data Flow 3.0 for Cloudera on cloud.
-
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io//blog/Surveyor/"><img src="https://cldr-steven-matison.github.io//assets/images/surveyor.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io//blog/Surveyor/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Streams Messaging - Surveyor</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Introducing Cloudera Streams Messaging Surveyor
 
 </p>
 </td>
