@@ -17,10 +17,49 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io//blog/NiFi-Kafka-Flink-on-Kubernetes/"><img src="https://cldr-steven-matison.github.io//assets/images/2026-03-16-NififKafkaFlinkonKubernetes.jpg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+<a href="https://cldr-steven-matison.github.io/blog/Max-CPU-with-NiFi-on-Minikube/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-20-MaxsCPU-Nifi-minikube.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io//blog/NiFi-Kafka-Flink-on-Kubernetes/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">NiFi Kafka and Flink on Kubernetes</a>
+<a href="https://cldr-steven-matison.github.io/blog/Max-CPU-with-NiFi-on-Minikube/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Tune for Max CPU with NiFi on Minikube</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Yesterday I built a simple but brutal benchmark flow for Apache NiFi. The goal? Push a default minimal NiFi cluster on Minikube to the absolute limits of memory and CPU — without crashing it :bomb:.  Or Did I?
+
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Engineering-1.25.2/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-18-CDE-1.25.2.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Engineering-1.25.2/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Engineering 1.25.2</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">We are excited to announce the latest release of Cloudera Data Engineering &lpar;CDE&rpar; on Cloud. This update introduces enhanced cost management controls, security posture for Microsoft Azure users, and expanded scalability to meet the needs of the most demanding data engineering workloads.
+
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Lineage-Trino/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-17-CDL-trino.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Lineage-Trino/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Lineage for Trino</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">:shield: Native Governance and Data Lineage for the Unified Data Fabric
+
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/NiFi-Kafka-Flink-on-Kubernetes/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-16-NififKafkaFlinkonKubernetes.jpg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/NiFi-Kafka-Flink-on-Kubernetes/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">NiFi Kafka and Flink on Kubernetes</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">Last week I published how I installed all of the Cloudera Streaming Operators on my MacBook. This post got quite a bit of attention and I had a few friends ask if I was going to use this setup for more in-depth demos and how to do stuff with CFM, CSM, and CSA Operators.  Absolutely!!
 
@@ -30,51 +69,12 @@ You can click the Preview link to take a look at your changes.
 </table><table>
 <tr>
 <td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io//assets/images/surveyor.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io/assets/images/surveyor.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Operators/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Streaming Operators</a>
+<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Streaming-Operators/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Streaming Operators</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">Setting up a new Macbook for Data Engineering is quite a chore. In this guide, we will go from a fresh macOS install to running the full suite of Cloudera Streaming Operators &lpar;CFM, CSA, CSM&rpar; on a local Minikube cluster.
-
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Analytics-Kubernetes-Operator-1.5/"><img src="https://cldr-steven-matison.github.io//assets/images/csa-architecture.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io//blog/Cloudera-Streaming-Analytics-Kubernetes-Operator-1.5/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Streaming Analytics Operator for Kubernetes 1.5</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Cloudera’s Data In Motion Team is pleased to announce the release of the Cloudera Streaming Analytics Operator for Kubernetes 1.5. This release advances our cloud-native streaming capabilities by introducing the Materialized View engine to Kubernetes, optimizing job handling responsiveness, and updating core infrastructure components for better performance and security.
-
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-Kubernetes-Operator-3.0/"><img src="https://cldr-steven-matison.github.io//assets/images/kubernetes-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-Kubernetes-Operator-3.0/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Flow Management Operator for Kubernetes 3.0</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">The Data In Motion Team is pleased to announce the release of Cloudera Flow Management Operator for Kubernetes version 3.0. This release introduces productivity and usability features.
-
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-3.0-For-Cloudera-On-Cloud/"><img src="https://cldr-steven-matison.github.io//assets/images/clouderadataflow.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io//blog/Cloudera-Flow-Management-3.0-For-Cloudera-On-Cloud/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Flow 3.0 for Cloudera on Cloud</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">The Data In Motion Team is pleased to announce the release of Cloudera Data Flow 3.0 for Cloudera on cloud.
 
 </p>
 </td>
