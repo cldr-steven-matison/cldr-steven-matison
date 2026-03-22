@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Max-CPU-with-NiFi-on-Minikube/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-20-MaxsCPU-Nifi-minikube.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+<a href="https://cldr-steven-matison.github.io/blog/Max-CPU-with-NiFi-on-Minikube/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-20-MaxCPU-Nifi-minikube.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
 <a href="https://cldr-steven-matison.github.io/blog/Max-CPU-with-NiFi-on-Minikube/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Tune for Max CPU with NiFi on Minikube</a>
@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 <td align="left" valign="top" style="padding-left:10px;">
 <a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Lineage-Trino/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Lineage for Trino</a>
 <br/>
-<p style="color:#8b949e; font-size:14px;">:shield: Native Governance and Data Lineage for the Unified Data Fabric
+<p style="color:#8b949e; font-size:14px;">Native Governance and Data Lineage for the Unified Data Fabric
 
 </p>
 </td>
