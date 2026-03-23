@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/RAG-with-Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io/assets/images/StreamToVLLM.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/RAG-with-Cloudera-Streaming-Operators/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">RAG with Cloudera Streaming Operators</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Privacy-first, fully local semantic search &amp; question-answering over your documents, Git repos, and URLs — powered by Kafka streaming, NiFi, Qdrant, and your RTX 4060 GPU.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Max-CPU-with-NiFi-on-Minikube/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-20-MaxCPU-Nifi-minikube.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -25,6 +36,17 @@ You can click the Preview link to take a look at your changes.
 <p style="color:#8b949e; font-size:14px;">Yesterday I built a simple but brutal benchmark flow for Apache NiFi. The goal? Push a default minimal NiFi cluster on Minikube to the absolute limits of memory and CPU — without crashing it :bomb:.  Or Did I?
 
 </p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Deploying-vLLM-with-Qwen-Llama-on-Minikube/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-18-minikube-vllm-qwen-lama.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Deploying-vLLM-with-Qwen-Llama-on-Minikube/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Deploying vLLM with Qwen Llama on Minikube</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Unleash your local GPU! Learn how to deploy vLLM on Minikube to power real-time NiFi data pipelines using Llama 3.2 and Qwen 2.5.</p>
 </td>
 </tr>
 </table><table>
@@ -43,40 +65,12 @@ You can click the Preview link to take a look at your changes.
 </table><table>
 <tr>
 <td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Lineage-Trino/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-17-CDL-trino.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+<a href="https://cldr-steven-matison.github.io/blog/GPU-Setup-Minikube/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-17-minikube-gpu-setup.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Lineage-Trino/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Lineage for Trino</a>
+<a href="https://cldr-steven-matison.github.io/blog/GPU-Setup-Minikube/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">GPU-Accelerated Kubernetes: Setting up NVIDIA on Minikube</a>
 <br/>
-<p style="color:#8b949e; font-size:14px;">Native Governance and Data Lineage for the Unified Data Fabric
-
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/NiFi-Kafka-Flink-on-Kubernetes/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-16-NififKafkaFlinkonKubernetes.jpg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/NiFi-Kafka-Flink-on-Kubernetes/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">NiFi Kafka and Flink on Kubernetes</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Last week I published how I installed all of the Cloudera Streaming Operators on my MacBook. This post got quite a bit of attention and I had a few friends ask if I was going to use this setup for more in-depth demos and how to do stuff with CFM, CSM, and CSA Operators.  Absolutely!!
-
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io/assets/images/surveyor.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Streaming-Operators/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Streaming Operators</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Setting up a new Macbook for Data Engineering is quite a chore. In this guide, we will go from a fresh macOS install to running the full suite of Cloudera Streaming Operators &lpar;CFM, CSA, CSM&rpar; on a local Minikube cluster.
-
-</p>
+<p style="color:#8b949e; font-size:14px;">Stop fighting the drivers and start shipping AI. A step-by-step guide to exposing your RTX 40-series GPU to Minikube using WSL2 and Docker.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
