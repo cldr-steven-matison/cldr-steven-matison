@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Managing-Multiple-Services-Port-Forwards-Efficiently-in-Minikube/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-23-minikube-services.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Managing-Multiple-Services-Port-Forwards-Efficiently-in-Minikube/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Managing Multiple Services and Port-Forwards Efficiently in Minikube</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Stop drowning in open terminal tabs just to access your UIs. This guide shows you how to streamline your Cloudera Streaming Operators workflow by managing multiple Minikube services and port-forwards simultaneously using background execution and automation scripts.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/RAG-with-Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io/assets/images/StreamToVLLM.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -33,9 +44,7 @@ You can click the Preview link to take a look at your changes.
 <td align="left" valign="top" style="padding-left:10px;">
 <a href="https://cldr-steven-matison.github.io/blog/Max-CPU-with-NiFi-on-Minikube/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Tune for Max CPU with NiFi on Minikube</a>
 <br/>
-<p style="color:#8b949e; font-size:14px;">Yesterday I built a simple but brutal benchmark flow for Apache NiFi. The goal? Push a default minimal NiFi cluster on Minikube to the absolute limits of memory and CPU — without crashing it :bomb:.  Or Did I?
-
-</p>
+<p style="color:#8b949e; font-size:14px;">How I stress-tested a default Cloudera Flow Management NiFi deployment on Minikube — hitting 99% CPU with synthetic data, aggressive duplication, and heavy compression — while keeping the cluster completely stable.</p>
 </td>
 </tr>
 </table><table>
@@ -60,17 +69,6 @@ You can click the Preview link to take a look at your changes.
 <p style="color:#8b949e; font-size:14px;">We are excited to announce the latest release of Cloudera Data Engineering &lpar;CDE&rpar; on Cloud. This update introduces enhanced cost management controls, security posture for Microsoft Azure users, and expanded scalability to meet the needs of the most demanding data engineering workloads.
 
 </p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/GPU-Setup-Minikube/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-17-minikube-gpu-setup.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/GPU-Setup-Minikube/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">GPU-Accelerated Kubernetes: Setting up NVIDIA on Minikube</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Stop fighting the drivers and start shipping AI. A step-by-step guide to exposing your RTX 40-series GPU to Minikube using WSL2 and Docker.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
