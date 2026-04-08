@@ -17,6 +17,32 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-4.12.0/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-01-Cloudera-Flow-Management-4.12.0.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-4.12.0/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Flow Management 4.12.0 General Availability for Cloudera 7.3.2</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">The Data in Motion Team is pleased to announce the General Availability &lpar;GA&rpar; release of Cloudera Flow Management 4.12.0, supporting Apache NiFi 2.6 with Cloudera Manager on Cloudera on premises and Cloudera on cloud &lpar;Data Hub&rpar; 7.3.2. This release offers a number of new features and improvements as well as upgraded dependencies.
+
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Introducing-Cloudera-Runtime-7.3.2/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-02-Cloudera-Runtime-7.3.2.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Introducing-Cloudera-Runtime-7.3.2/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Introducing Cloudera Runtime 7.3.2</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">We are excited to announce the delivery of Cloudera runtime 7.3.2! This represents our most enduring Long-Term Support &lpar;LTS&rpar; release to date, with support extending through 2032. This release builds upon the unified code base for both Cloudera on premises and Cloudera on cloud that was established in the previous release in support of the hybrid cloud strategy.
+
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Lessons-From-Audio-Transcription-with-Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-30-StreamToWhisper-lessons.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -28,45 +54,23 @@ You can click the Preview link to take a look at your changes.
 </table><table>
 <tr>
 <td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Audio-Transcription-with-Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-30-StreamToWhisper.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+<a href="https://cldr-steven-matison.github.io/blog/Lessons-From-Audio-Transcription-Terminal-Output-3/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-30-StreamToWhisper-lessons.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Audio-Transcription-with-Cloudera-Streaming-Operators/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Insanely Fast Audio Transcription with Cloudera Streaming Operators</a>
+<a href="https://cldr-steven-matison.github.io/blog/Lessons-From-Audio-Transcription-Terminal-Output-3/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Lessons Learned Audio Transcription Terminal Output 3</a>
 <br/>
-<p style="color:#8b949e; font-size:14px;">Real-time, GPU-accelerated speech-to-text over streaming audio sources — powered by insanely-fast-whisper, Cloudera Streaming Operators &lpar;Kafka + NiFi&rpar;, and my RTX 4060. Transcripts flow straight into my existing RAG pipeline for instant Q&amp;A on spoken content.</p>
+<p style="color:#8b949e; font-size:14px;">Terminal 3 Output to go along with Audio Transcription RAG post.</p>
 </td>
 </tr>
 </table><table>
 <tr>
 <td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Managing-Multiple-Services-Port-Forwards-Efficiently-in-Minikube/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-23-minikube-services.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+<a href="https://cldr-steven-matison.github.io/blog/Lessons-From-Audio-Transcription-Terminal-Output-2/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-30-StreamToWhisper-lessons.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Managing-Multiple-Services-Port-Forwards-Efficiently-in-Minikube/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Managing Multiple Services and Port-Forwards Efficiently in Minikube</a>
+<a href="https://cldr-steven-matison.github.io/blog/Lessons-From-Audio-Transcription-Terminal-Output-2/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Lessons Learned Audio Transcription Terminal Output 2</a>
 <br/>
-<p style="color:#8b949e; font-size:14px;">Stop drowning in open terminal tabs just to access your UIs. This guide shows you how to streamline your Cloudera Streaming Operators workflow by managing multiple Minikube services and port-forwards simultaneously using background execution and automation scripts.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/RAG-with-Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io/assets/images/StreamToVLLM.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/RAG-with-Cloudera-Streaming-Operators/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">RAG with Cloudera Streaming Operators</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Privacy-first, fully local semantic search &amp; question-answering over your documents, Git repos, and URLs — powered by Kafka streaming, NiFi, Qdrant, and your RTX 4060 GPU.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Max-CPU-with-NiFi-on-Minikube/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-20-MaxCPU-Nifi-minikube.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Max-CPU-with-NiFi-on-Minikube/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Tune for Max CPU with NiFi on Minikube</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">How I stress-tested a default Cloudera Flow Management NiFi deployment on Minikube — hitting 99% CPU with synthetic data, aggressive duplication, and heavy compression — while keeping the cluster completely stable.</p>
+<p style="color:#8b949e; font-size:14px;">Terminal 2 Output to go along with Audio Transcription RAG post.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
