@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Custom-Processors-With-Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-09-Custom-NiFi-Processors.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Custom-Processors-With-Cloudera-Streaming-Operators/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Custom NiFi Processors with Cloudera Streaming Operators</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Learn how to extend NiFi’s capabilities within Cloudera Streaming Operators by deploying custom Python and Java processors. This guide covers everything from rapid prototyping with local mounts to production-ready NAR deployments using the NarProvider.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-4.12.0/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-01-Cloudera-Flow-Management-4.12.0.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -60,17 +71,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/Lessons-From-Audio-Transcription-Terminal-Output-3/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Lessons Learned Audio Transcription Terminal Output 3</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">Terminal 3 Output to go along with Audio Transcription RAG post.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Lessons-From-Audio-Transcription-Terminal-Output-2/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-30-StreamToWhisper-lessons.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Lessons-From-Audio-Transcription-Terminal-Output-2/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Lessons Learned Audio Transcription Terminal Output 2</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Terminal 2 Output to go along with Audio Transcription RAG post.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
