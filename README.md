@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Introducing-Cloudera-Data-Explorer/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-20-Cloudera_Data_Explorer.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Introducing-Cloudera-Data-Explorer/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Introducing Cloudera Data Explorer</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">As of Cloudera Runtime 7.3.2, Hue is now Cloudera Data Explorer — the modern SQL editor for the lakehouse era, with a new REST API that turns natural language into production-ready SQL.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/All-the-New-in-7.3.2/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-14-all_the_new_in_7_3_2.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -60,17 +71,6 @@ You can click the Preview link to take a look at your changes.
 <p style="color:#8b949e; font-size:14px;">We are excited to announce the delivery of Cloudera runtime 7.3.2! This represents our most enduring Long-Term Support &lpar;LTS&rpar; release to date, with support extending through 2032. This release builds upon the unified code base for both Cloudera on premises and Cloudera on cloud that was established in the previous release in support of the hybrid cloud strategy.
 
 </p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Lessons-From-Audio-Transcription-with-Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-03-30-StreamToWhisper-lessons.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Lessons-From-Audio-Transcription-with-Cloudera-Streaming-Operators/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Lessons Learned Audio Transcription RAG</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Infrastructure tuning is the &#39;final boss&#39; of local AI. Skip the &#39;Driver Dance&#39; and move past the tutorials with these hard-won lessons on CUDA pinning, dependency traps, and Flash Attention 2 hacks for Whisper on local Kubernetes.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
