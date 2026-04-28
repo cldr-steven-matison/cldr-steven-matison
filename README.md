@@ -17,6 +17,30 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Top-5-NiFi-Operational-Struggles/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-27-Cloudera_DataFlow.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Top-5-NiFi-Operational-Struggles/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Top 5 NiFi Operational Struggles</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Identify and conquer the standard performance and stability demons of Apache NiFi. In this post, I break down the Top 5 operational struggles and discuss how Cloudera DataFlow solve for each.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-AI-April-Release/"><img src="https://cldr-steven-matison.github.io/assets/images/cloudera_ai_inference.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-AI-April-Release/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera AI April Release</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">We are excited to announce the latest release of Cloudera AI. This update focuses on streamlining model deployment, enhancing user experience, and expanding our ecosystem integrations within the Cloudera AI Inference service. Key highlights include the introduction of long-lived API keys for persistent authentication, new model additions, and a new public Model Hub Catalog to accelerate model discovery, alongside several key performance and stability fixes within the Cloudera AI Workbench.
+
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Introducing-Cloudera-Data-Explorer/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-20-Cloudera_Data_Explorer.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -45,32 +69,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/Custom-Processors-With-Cloudera-Streaming-Operators/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Custom NiFi Processors with Cloudera Streaming Operators</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">Learn how to extend NiFi’s capabilities within Cloudera Streaming Operators by deploying custom Python and Java processors. This guide covers everything from rapid prototyping with local mounts to production-ready NAR deployments using the NarProvider.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-4.12.0/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-01-Cloudera-Flow-Management-4.12.0.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-4.12.0/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Flow Management 4.12.0 General Availability for Cloudera 7.3.2</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">The Data in Motion Team is pleased to announce the General Availability &lpar;GA&rpar; release of Cloudera Flow Management 4.12.0, supporting Apache NiFi 2.6 with Cloudera Manager on Cloudera on premises and Cloudera on cloud &lpar;Data Hub&rpar; 7.3.2. This release offers a number of new features and improvements as well as upgraded dependencies.
-
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Introducing-Cloudera-Runtime-7.3.2/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-02-Cloudera-Runtime-7.3.2.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Introducing-Cloudera-Runtime-7.3.2/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Introducing Cloudera Runtime 7.3.2</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">We are excited to announce the delivery of Cloudera runtime 7.3.2! This represents our most enduring Long-Term Support &lpar;LTS&rpar; release to date, with support extending through 2032. This release builds upon the unified code base for both Cloudera on premises and Cloudera on cloud that was established in the previous release in support of the hybrid cloud strategy.
-
-</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
