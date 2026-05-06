@@ -17,58 +17,56 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Observability-with-Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-05-Observabiliy_With_Cloudera_Streaming_Operators.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Observability-with-Cloudera-Streaming-Operators/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Observability with Cloudera Streaming Operators</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">The complete guide to building an end-to-end observability pipeline for NiFi, Kafka, and Flink on Kubernetes using the Cloudera Streaming Operators, Prometheus, and Grafana.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Streams-Messaging-(CSM)-with-Prometheus/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-05-CSM_metrics.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Streams-Messaging-(CSM)-with-Prometheus/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Monitoring Cloudera Streams Messaging &lpar;CSM&rpar; with Prometheus</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Unlock deep Kafka broker metrics in Cloudera Streams Messaging &lpar;CSM&rpar; by injecting a custom JMX Prometheus Exporter and deploying a targeted PodMonitor.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Flow-Management-(CFM)-with-Prometheus/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-05-CFM_metrics.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Flow-Management-(CFM)-with-Prometheus/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Monitoring Cloudera Flow Management &lpar;CFM&rpar; with Prometheus</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Discover how to securely expose Cloudera Flow Management &lpar;CFM&rpar; NiFi metrics to Prometheus by configuring an mTLS bypass for Single User Auth.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Streaming-Analytics-(CSA)-with-Prometheus/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-05-CSA_metrics.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Streaming-Analytics-(CSA)-with-Prometheus/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Monitoring Cloudera Streaming Analytics &lpar;CSA&rpar; with Prometheus</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Learn how to monitor dynamic Flink and SQL Stream Builder jobs in Cloudera Streaming Analytics &lpar;CSA&rpar; by utilizing a Headless Service and ServiceMonitor for Prometheus discovery.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Persiting-Schema-with-Schema-Registry/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-04-Schema_Registry_PostgreSQL.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
 <a href="https://cldr-steven-matison.github.io/blog/Persiting-Schema-with-Schema-Registry/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Persisting Schema Registry with PostgreSQL</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">Learn how to use CSA Operator&#39;s PostgreSQL pod to persist schemas in the Schema Registry.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Top-5-NiFi-Operational-Struggles/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-27-Cloudera_DataFlow.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Top-5-NiFi-Operational-Struggles/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Top 5 NiFi Operational Struggles</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Identify and conquer the standard performance and stability demons of Apache NiFi. In this post, I break down the Top 5 operational struggles and discuss how Cloudera DataFlow solve for each.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-AI-April-Release/"><img src="https://cldr-steven-matison.github.io/assets/images/cloudera_ai_inference.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-AI-April-Release/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera AI April Release</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">We are excited to announce the latest release of Cloudera AI. This update focuses on streamlining model deployment, enhancing user experience, and expanding our ecosystem integrations within the Cloudera AI Inference service. Key highlights include the introduction of long-lived API keys for persistent authentication, new model additions, and a new public Model Hub Catalog to accelerate model discovery, alongside several key performance and stability fixes within the Cloudera AI Workbench.
-
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Introducing-Cloudera-Data-Explorer/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-20-Cloudera_Data_Explorer.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Introducing-Cloudera-Data-Explorer/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Introducing Cloudera Data Explorer</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">As of Cloudera Runtime 7.3.2, Hue is now Cloudera Data Explorer — the modern SQL editor for the lakehouse era, with a new REST API that turns natural language into production-ready SQL.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/All-the-New-in-7.3.2/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-04-14-all_the_new_in_7_3_2.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/All-the-New-in-7.3.2/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">All The New In Cloudera 7.3.2</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Explore the major modernization of CDP Private Cloud Base in Cloudera Runtime 7.3.2. This comprehensive guide covers the JDK 17 transition, the new React-based Atlas UI, IPv6 support, and the Hadoop 3.4 rebase, alongside every official update for the platform.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
