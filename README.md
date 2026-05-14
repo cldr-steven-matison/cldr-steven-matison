@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/How-to-AI-with-NiFi-and-Python/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-06-how_to_ai_with_nifi_and_python.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/How-to-AI-with-NiFi-and-Python/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How to AI with NiFi and Python</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">How to Build and Test Custom NiFi Python Processors with AI &lpar;Without Breaking NiFi&rpar;</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Observability-with-Cloudera-Streaming-Operators/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-05-Observabiliy_With_Cloudera_Streaming_Operators.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -56,17 +67,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Streaming-Analytics-(CSA)-with-Prometheus/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Monitoring Cloudera Streaming Analytics &lpar;CSA&rpar; with Prometheus</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">Learn how to monitor dynamic Flink and SQL Stream Builder jobs in Cloudera Streaming Analytics &lpar;CSA&rpar; by utilizing a Headless Service and ServiceMonitor for Prometheus discovery.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Persiting-Schema-with-Schema-Registry/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-04-Schema_Registry_PostgreSQL.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Persiting-Schema-with-Schema-Registry/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Persisting Schema Registry with PostgreSQL</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Learn how to use CSA Operator&#39;s PostgreSQL pod to persist schemas in the Schema Registry.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
