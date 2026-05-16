@@ -17,6 +17,19 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Real-Time-Monitoring-with-Observability/"><img src="https://cldr-steven-matison.github.io/assets/images/Real-Time_Monitoring_with_Observability.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Real-Time-Monitoring-with-Observability/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Real-Time Monitoring with Observability</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">CDP Real time Monitoring for 7.1.9+ and 7.2.18+ with Cloudera Observability SaaS is now GA
+We are announcing the general availability of Real-Time Monitoring &lpar;RTM&rpar; capabilities for Cloudera Data Platform &lpar;CDP&rpar; customers through our Observability SaaS offering.
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/How-to-AI-with-NiFi-and-Python/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-06-how_to_ai_with_nifi_and_python.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -39,34 +52,24 @@ You can click the Preview link to take a look at your changes.
 </table><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streaming-Analytics-1.17.0/"><img src="https://cldr-steven-matison.github.io/assets/images/Cloudera_Streaming_Analytics_1.17.0.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streaming-Analytics-1.17.0/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Announcing Cloudera Streaming Analytics 1.17.0</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">We are excited to announce the release of Cloudera Streaming Analytics 1.17.0 for on-premises deployments. This update reinforces our commitment to a stable, secure, and high-performance streaming offering. By aligning with Cloudera 7.3.2.0 and modernizing our User-Defined Function &lpar;UDF&rpar; framework, we’re providing a more robust foundation for Apache Flink and Cloudera SQL Stream Builder.
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Streams-Messaging-(CSM)-with-Prometheus/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-05-CSM_metrics.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
 <a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Streams-Messaging-(CSM)-with-Prometheus/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Monitoring Cloudera Streams Messaging &lpar;CSM&rpar; with Prometheus</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">Unlock deep Kafka broker metrics in Cloudera Streams Messaging &lpar;CSM&rpar; by injecting a custom JMX Prometheus Exporter and deploying a targeted PodMonitor.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Flow-Management-(CFM)-with-Prometheus/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-05-CFM_metrics.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Flow-Management-(CFM)-with-Prometheus/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Monitoring Cloudera Flow Management &lpar;CFM&rpar; with Prometheus</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Discover how to securely expose Cloudera Flow Management &lpar;CFM&rpar; NiFi metrics to Prometheus by configuring an mTLS bypass for Single User Auth.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Streaming-Analytics-(CSA)-with-Prometheus/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-05-CSA_metrics.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Streaming-Analytics-(CSA)-with-Prometheus/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Monitoring Cloudera Streaming Analytics &lpar;CSA&rpar; with Prometheus</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Learn how to monitor dynamic Flink and SQL Stream Builder jobs in Cloudera Streaming Analytics &lpar;CSA&rpar; by utilizing a Headless Service and ServiceMonitor for Prometheus discovery.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
