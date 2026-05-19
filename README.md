@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/How-To-Install-Cloudera-NiFi-MCP-Server/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-18-how_to_install_nifi_mcp_server.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/How-To-Install-Cloudera-NiFi-MCP-Server/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How To Install Cloudera NiFi MCP Server</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">How to build and locally test the Cloudera NiFi MCP Server with MCP Inspector using Cloudera Apache NiFi in a data hub.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/release/Real-Time-Monitoring-with-Observability/"><img src="https://cldr-steven-matison.github.io/assets/images/Real-Time_Monitoring_with_Observability.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -59,17 +70,6 @@ We are announcing the general availability of Real-Time Monitoring &lpar;RTM&rpa
 <br/>
 <p style="color:#8b949e; font-size:14px;">We are excited to announce the release of Cloudera Streaming Analytics 1.17.0 for on-premises deployments. This update reinforces our commitment to a stable, secure, and high-performance streaming offering. By aligning with Cloudera 7.3.2.0 and modernizing our User-Defined Function &lpar;UDF&rpar; framework, we’re providing a more robust foundation for Apache Flink and Cloudera SQL Stream Builder.
 </p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Streams-Messaging-(CSM)-with-Prometheus/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-05-CSM_metrics.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Monitoring-Cloudera-Streams-Messaging-(CSM)-with-Prometheus/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Monitoring Cloudera Streams Messaging &lpar;CSM&rpar; with Prometheus</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Unlock deep Kafka broker metrics in Cloudera Streams Messaging &lpar;CSM&rpar; by injecting a custom JMX Prometheus Exporter and deploying a targeted PodMonitor.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
