@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <td align="left" valign="top" style="padding-left:10px;">
 <a href="https://cldr-steven-matison.github.io/blog/How-To-Install-Cloudera-NiFi-MCP-Server/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How To Install Cloudera NiFi MCP Server</a>
 <br/>
-<p style="color:#8b949e; font-size:14px;">How to build and locally test the Cloudera NiFi MCP Server with MCP Inspector using Cloudera Apache NiFi in a data hub.</p>
+<p style="color:#8b949e; font-size:14px;">How to build and locally test the Cloudera NiFi MCP Server with MCP Inspector using Cloudera Apache NiFi deployed on AWS in a Data.</p>
 </td>
 </tr>
 </table><table>
