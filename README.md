@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/How-To-Install-Cloudera-Iceberg-MCP-Server/"><img src="https://cldr-steven-matison.github.io/assets/images/how_to_install_iceberg_mcp_server.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/How-To-Install-Cloudera-Iceberg-MCP-Server/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How To Install Cloudera Iceberg MCP Server</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">How to build and locally test the Cloudera Iceberg MCP Server with MCP Inspector using Cloudera Apache Iceberg deployed on AWS in a Cloudera Data Warehouse.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/How-To-Install-Cloudera-NiFi-MCP-Server/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-18-how_to_install_nifi_mcp_server.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -58,18 +69,6 @@ We are announcing the general availability of Real-Time Monitoring &lpar;RTM&rpa
 <a href="https://cldr-steven-matison.github.io/blog/Observability-with-Cloudera-Streaming-Operators/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Observability with Cloudera Streaming Operators</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">The complete guide to building an end-to-end observability pipeline for NiFi, Kafka, and Flink on Kubernetes using the Cloudera Streaming Operators, Prometheus, and Grafana.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streaming-Analytics-1.17.0/"><img src="https://cldr-steven-matison.github.io/assets/images/Cloudera_Streaming_Analytics_1.17.0.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streaming-Analytics-1.17.0/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Announcing Cloudera Streaming Analytics 1.17.0</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">We are excited to announce the release of Cloudera Streaming Analytics 1.17.0 for on-premises deployments. This update reinforces our commitment to a stable, secure, and high-performance streaming offering. By aligning with Cloudera 7.3.2.0 and modernizing our User-Defined Function &lpar;UDF&rpar; framework, we’re providing a more robust foundation for Apache Flink and Cloudera SQL Stream Builder.
-</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
