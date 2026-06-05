@@ -17,10 +17,21 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/NiFi-Kafka-Flink-Kubernetes-Gemini-Grok/"><img src="https://cldr-steven-matison.github.io/assets/images/SRM.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/NiFi-Kafka-Flink-Kubernetes-Gemini-Grok/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">NiFi Kafka Flink Kubernetes with Gemini and Grok</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">AI dump of markdown discussing top 10 kubernetes technologies in terms of nifi kafka and flink as operators.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/How-to-Install-NiFi-Registry-on-Kubernetes-with-CFM-Operator/"><img src="https://cldr-steven-matison.github.io/assets/images/NiFi_Registry_on_Kubernetes.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/How-to-Install-NiFi-Registry-on-Kubernetes-with-CFM-Operator/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How to Install NiFi Registry on Kubernetes with CFM Operator</a>
+<a href="https://cldr-steven-matison.github.io/blog/How-to-Install-NiFi-Registry-on-Kubernetes-with-CFM-Operator/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How To Install NiFi Registry on Kubernetes with CFM Operator</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">A quick how to guide for installing NiFi Registry on minikube with the CFM Operator</p>
 </td>
@@ -58,17 +69,6 @@ You can click the Preview link to take a look at your changes.
 <p style="color:#8b949e; font-size:14px;">CDP Real time Monitoring for 7.1.9+ and 7.2.18+ with Cloudera Observability SaaS is now GA
 We are announcing the general availability of Real-Time Monitoring &lpar;RTM&rpar; capabilities for Cloudera Data Platform &lpar;CDP&rpar; customers through our Observability SaaS offering.
 </p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/How-to-AI-with-NiFi-and-Python/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-06-how_to_ai_with_nifi_and_python.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/How-to-AI-with-NiFi-and-Python/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How to AI with NiFi and Python</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">How to Build and Test Custom NiFi Python Processors with AI &lpar;Without Breaking NiFi&rpar;</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
