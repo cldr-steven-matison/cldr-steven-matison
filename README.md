@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Day-1-Claude-Code/"><img src="https://cldr-steven-matison.github.io/assets/images/Day1ClaudeCode.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Day-1-Claude-Code/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Day 1: Claude Code</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">First day with Claude Code on the MacBook — install, a few questions about my DesktopShare repo, and a commit + push, end to end from the terminal.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/NiFi-Kafka-Flink-Kubernetes-Gemini-Grok/"><img src="https://cldr-steven-matison.github.io/assets/images/SRM.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -56,19 +67,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/How-To-Install-Cloudera-NiFi-MCP-Server/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How To Install Cloudera NiFi MCP Server</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">How to build and locally test the Cloudera NiFi MCP Server with MCP Inspector using Cloudera Apache NiFi deployed on AWS in a Data.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Real-Time-Monitoring-with-Observability/"><img src="https://cldr-steven-matison.github.io/assets/images/Real-Time_Monitoring_with_Observability.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Real-Time-Monitoring-with-Observability/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Real-Time Monitoring with Observability</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">CDP Real time Monitoring for 7.1.9+ and 7.2.18+ with Cloudera Observability SaaS is now GA
-We are announcing the general availability of Real-Time Monitoring &lpar;RTM&rpar; capabilities for Cloudera Data Platform &lpar;CDP&rpar; customers through our Observability SaaS offering.
-</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
