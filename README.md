@@ -17,6 +17,30 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-2.1.7-Service-Pack-4-Release-Announcement/"><img src="https://cldr-steven-matison.github.io/assets/images/nifi-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-2.1.7-Service-Pack-4-Release-Announcement/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Flow Management 2.1.7 Service Pack 4 for Cloudera Data Platform 7.1.9 and 7.3.1</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">The Data in Motion team is pleased to announce the release of Cloudera Flow Management 2.1.7 Service Pack 4. This release is based on Apache NiFi 1.28.1 and supports Cloudera on-premises 7.1.9 &lpar;all service packs&rpar; and Cloudera on-premises 7.3.1 &lpar;all service packs&rpar;.
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Services-On-Premises-1.5.5-SP3-Release/"><img src="https://cldr-steven-matison.github.io/assets/images/Cloudera-Data-Platform.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Services-On-Premises-1.5.5-SP3-Release/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Services On Premises 1.5.5 SP3 Release</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Cloudera is pleased to announce the release of Cloudera Data Services on premises 1.5.5 SP3.
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Day-1-Claude-Code/"><img src="https://cldr-steven-matison.github.io/assets/images/Day1ClaudeCode.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -28,45 +52,25 @@ You can click the Preview link to take a look at your changes.
 </table><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Data-Lineage-Custom-Lineage-Connector-Relaunch/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-02-03-cloudera_data_lineage.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Data-Lineage-Custom-Lineage-Connector-Relaunch/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Lineage Custom Lineage Connector Relaunch</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Executive Summary
+The Cloudera Data Lineage team is pleased to announce that we’ve enhanced the Custom Lineage Connector &lpar;F.K.A Universal Connector&rpar; to support inner system lineage and transformations. This update effectively closes the visibility gap for source systems we don’t natively support yet.
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/NiFi-Kafka-Flink-Kubernetes-Gemini-Grok/"><img src="https://cldr-steven-matison.github.io/assets/images/SRM.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
 <a href="https://cldr-steven-matison.github.io/blog/NiFi-Kafka-Flink-Kubernetes-Gemini-Grok/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">NiFi Kafka Flink Kubernetes with Gemini and Grok</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">AI dump of markdown discussing top 10 kubernetes technologies in terms of nifi kafka and flink as operators.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/How-to-Install-NiFi-Registry-on-Kubernetes-with-CFM-Operator/"><img src="https://cldr-steven-matison.github.io/assets/images/NiFi_Registry_on_Kubernetes.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/How-to-Install-NiFi-Registry-on-Kubernetes-with-CFM-Operator/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How To Install NiFi Registry on Kubernetes with CFM Operator</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">A quick how to guide for installing NiFi Registry on minikube with the CFM Operator</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/How-To-Install-Cloudera-Iceberg-MCP-Server/"><img src="https://cldr-steven-matison.github.io/assets/images/how_to_install_iceberg_mcp_server.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/How-To-Install-Cloudera-Iceberg-MCP-Server/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How To Install Cloudera Iceberg MCP Server</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">How to build and locally test the Cloudera Iceberg MCP Server with MCP Inspector using Cloudera Apache Iceberg deployed on AWS in a Cloudera Data Warehouse.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/How-To-Install-Cloudera-NiFi-MCP-Server/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-05-18-how_to_install_nifi_mcp_server.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/How-To-Install-Cloudera-NiFi-MCP-Server/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How To Install Cloudera NiFi MCP Server</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">How to build and locally test the Cloudera NiFi MCP Server with MCP Inspector using Cloudera Apache NiFi deployed on AWS in a Data.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
