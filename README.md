@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Using-Kftray-and-Zellij/"><img src="https://cldr-steven-matison.github.io/assets/images/SRM.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Using-Kftray-and-Zellij/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Using Kftray and Zellij</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Two small tools that make working against a Kubernetes cluster feel less like a chore — kftray for reusable port-forward configs, and Zellij for pinning every long-running dev command into one terminal workspace.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-2.1.7-Service-Pack-4-Release-Announcement/"><img src="https://cldr-steven-matison.github.io/assets/images/nifi-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -60,17 +71,6 @@ You can click the Preview link to take a look at your changes.
 <p style="color:#8b949e; font-size:14px;">Executive Summary
 The Cloudera Data Lineage team is pleased to announce that we’ve enhanced the Custom Lineage Connector &lpar;F.K.A Universal Connector&rpar; to support inner system lineage and transformations. This update effectively closes the visibility gap for source systems we don’t natively support yet.
 </p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/NiFi-Kafka-Flink-Kubernetes-Gemini-Grok/"><img src="https://cldr-steven-matison.github.io/assets/images/SRM.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/NiFi-Kafka-Flink-Kubernetes-Gemini-Grok/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">NiFi Kafka Flink Kubernetes with Gemini and Grok</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">AI dump of markdown discussing top 10 kubernetes technologies in terms of nifi kafka and flink as operators.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
