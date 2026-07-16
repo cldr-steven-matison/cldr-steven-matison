@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Edge-Flow-Manager-on-Kubernetes/"><img src="https://cldr-steven-matison.github.io/assets/images/EFM_on_Kubernetes.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Edge-Flow-Manager-on-Kubernetes/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Edge Flow Manager on Kubernetes</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">A full recipe for running Cloudera Edge Flow Manager &lpar;EFM&rpar; on minikube with everything — agent classes, flows, agent binaries, and uploaded resources — surviving pod restarts and cluster reboots.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Using-Kftray-and-Zellij/"><img src="https://cldr-steven-matison.github.io/assets/images/SRM.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -58,19 +69,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/Day-1-Claude-Code/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Day 1: Claude Code</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">First day with Claude Code on the MacBook — install, a few questions about my DesktopShare repo, and a commit + push, end to end from the terminal.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Data-Lineage-Custom-Lineage-Connector-Relaunch/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-02-03-cloudera_data_lineage.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Data-Lineage-Custom-Lineage-Connector-Relaunch/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Lineage Custom Lineage Connector Relaunch</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Executive Summary
-The Cloudera Data Lineage team is pleased to announce that we’ve enhanced the Custom Lineage Connector &lpar;F.K.A Universal Connector&rpar; to support inner system lineage and transformations. This update effectively closes the visibility gap for source systems we don’t natively support yet.
-</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
