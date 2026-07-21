@@ -17,6 +17,28 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Month-1-Claude-Code/"><img src="https://cldr-steven-matison.github.io/assets/images/month1_claude_code.jpg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Month-1-Claude-Code/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Month 1: Claude Code</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">One month in with Claude Code — a summary of the work completed since Day 1, with pointers to the daily X articles that captured each step along the way.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Edge-to-AI-for-Dummies/"><img src="https://cldr-steven-matison.github.io/assets/images/edge_to_ai_for_dummies.jpeg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Edge-to-AI-for-Dummies/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Edge to AI for Dummies</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">A practical roadmap for transforming data from edge devices into real-time AI use cases — architectures, tooling options, and tradeoffs.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Cloudera-Edge-Flow-Manager-on-Kubernetes/"><img src="https://cldr-steven-matison.github.io/assets/images/EFM_on_Kubernetes.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -46,29 +68,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <p style="color:#8b949e; font-size:14px;">The Data in Motion team is pleased to announce the release of Cloudera Flow Management 2.1.7 Service Pack 4. This release is based on Apache NiFi 1.28.1 and supports Cloudera on-premises 7.1.9 &lpar;all service packs&rpar; and Cloudera on-premises 7.3.1 &lpar;all service packs&rpar;.
 </p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Services-On-Premises-1.5.5-SP3-Release/"><img src="https://cldr-steven-matison.github.io/assets/images/Cloudera-Data-Platform.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Services-On-Premises-1.5.5-SP3-Release/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Services On Premises 1.5.5 SP3 Release</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Cloudera is pleased to announce the release of Cloudera Data Services on premises 1.5.5 SP3.
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Day-1-Claude-Code/"><img src="https://cldr-steven-matison.github.io/assets/images/Day1ClaudeCode.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Day-1-Claude-Code/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Day 1: Claude Code</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">First day with Claude Code on the MacBook — install, a few questions about my DesktopShare repo, and a commit + push, end to end from the terminal.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
