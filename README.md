@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Hacking-The-Jetson/"><img src="" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Hacking-The-Jetson/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Hacking The Jetson</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Customize Your NVIDIA Jetson Orin Nano and Turn It Up To the Max With AI</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/How-to-Install-a-Public-Certificate-for-NiFi/"><img src="https://cldr-steven-matison.github.io/assets/images/nifi-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -56,17 +67,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/Edge-to-AI-for-Dummies/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Edge to AI for Dummies</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">A practical roadmap for transforming data from edge devices into real-time AI use cases — architectures, tooling options, and tradeoffs.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Edge-Flow-Manager-on-Kubernetes/"><img src="https://cldr-steven-matison.github.io/assets/images/EFM_on_Kubernetes.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Cloudera-Edge-Flow-Manager-on-Kubernetes/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Edge Flow Manager on Kubernetes</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">A full recipe for running Cloudera Edge Flow Manager &lpar;EFM&rpar; on minikube with everything — agent classes, flows, agent binaries, and uploaded resources — surviving pod restarts and cluster reboots.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
