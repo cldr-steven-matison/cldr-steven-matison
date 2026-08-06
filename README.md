@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Disposable-Clusters-on-One-Box-The-minikube-Profile-Swap/"><img src="https://cldr-steven-matison.github.io/assets/images/Minikube-Profile-Swap.jpg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Disposable-Clusters-on-One-Box-The-minikube-Profile-Swap/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Disposable Clusters on One Box: The minikube Profile Swap</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">How I proved MiNiFi → NiFi Site-to-Site without risking 123 days of a live Cloudera stack — a second, disposable minikube profile swapped in and out on the same box, with the long-lived cluster preserved untouched.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Cloudera-Community-Edition-on-AWS-in-One-Command/"><img src="https://cldr-steven-matison.github.io/assets/images/cloudera-ce-cm-cluster.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -57,17 +68,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/Day-37-Claude-Code/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Day 37 : Claude Code</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">A previous Claude Code session fanned out six planning subagents and every one of them died on the same 401. Here&#39;s how I found the corpse, diagnosed the model-auth mismatch, re-ran the whole fan-out, and caught the subagents inventing a processor count during review — the day agentic doc cleanup actually shipped.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Month-1-Claude-Code/"><img src="https://cldr-steven-matison.github.io/assets/images/month1_claude_code.jpg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Month-1-Claude-Code/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Month 1: Claude Code</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">One month in with Claude Code — a summary of the work completed since Day 1, with pointers to the daily X articles that captured each step along the way.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
