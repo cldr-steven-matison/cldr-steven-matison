@@ -17,6 +17,28 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Persistence-with-Cloudera-Streaming-Analytics-Operator/"><img src="https://cldr-steven-matison.github.io/assets/images/CSA-Cloudera_Streaming_Analytics_Operator.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Persistence-with-Cloudera-Streaming-Analytics-Operator/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Persistence with Cloudera Streaming Analytics Operator</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">How to make everything CSA writes to disk — SQL Stream Builder metadata, uploaded user artifacts, and Flink checkpoints, savepoints and HA state — survive pod restarts on Kubernetes.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Persistence-with-Cloudera-Flow-Management-Operator/"><img src="https://cldr-steven-matison.github.io/assets/images/CFM-Cloudera_Flow_Management_Operator.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Persistence-with-Cloudera-Flow-Management-Operator/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Persistence with Cloudera Flow Management Operator</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">How to make everything CFM writes to disk on Kubernetes — flow definitions, FlowFiles, content, provenance, cluster state, custom NARs, and Python extensions — survive pod restarts, rolling updates, and cluster reboots. Includes the migration from a fragile minikube mount at /extensions to a proper PersistentVolumeClaim.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Disposable-Clusters-on-One-Box-The-minikube-Profile-Swap/"><img src="https://cldr-steven-matison.github.io/assets/images/Minikube-Profile-Swap.jpg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -46,28 +68,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/Hacking-The-Jetson/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Hacking The Jetson</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">Customize Your NVIDIA Jetson Orin Nano and Turn It Up To the Max With AI</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/How-to-Install-a-Public-Certificate-for-NiFi/"><img src="https://cldr-steven-matison.github.io/assets/images/nifi-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/How-to-Install-a-Public-Certificate-for-NiFi/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How to Install a Public Certificate for NiFi</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Swap out NiFi&#39;s default self-signed keystore for a real Let&#39;s Encrypt certificate on a host-native Apache NiFi install so the browser padlock goes solid, no more NET::ERR_CERT_AUTHORITY_INVALID.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Day-37-Claude-Code/"><img src="https://cldr-steven-matison.github.io/assets/images/Day_37_Claude_Code.jpg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Day-37-Claude-Code/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Day 37 : Claude Code</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">A previous Claude Code session fanned out six planning subagents and every one of them died on the same 401. Here&#39;s how I found the corpse, diagnosed the model-auth mismatch, re-ran the whole fan-out, and caught the subagents inventing a processor count during review — the day agentic doc cleanup actually shipped.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
