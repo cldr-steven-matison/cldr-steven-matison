@@ -17,6 +17,41 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Observability-for-Cloudera-AI-on-Public-Cloud/"><img src="https://cldr-steven-matison.github.io/assets/images/Observability-For-Cloudera-AI.jpeg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Observability-for-Cloudera-AI-on-Public-Cloud/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Observability for Cloudera AI on Public Cloud is Now Generally Available</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Executive Summary
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-Operator-for-Kubernetes-3.3/"><img src="https://cldr-steven-matison.github.io/assets/images/CFM-Cloudera_Flow_Management_Operator.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-Operator-for-Kubernetes-3.3/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Flow Management Operator for Kubernetes 3.3</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">The Data In Motion Team is pleased to announce the release of Cloudera Flow Management Operator for Kubernetes version 3.3. This release focuses on improving security, streamlining deployments, and enhancing upgrade paths. The core highlights include first-class Apache Ranger authorization, seamless inter-cluster communication, declarative flow deployments, and rolling upgrades for NiFi 2 clusters.
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/AI-Agents-in-Data-Platforms-For-Dummies/"><img src="https://cldr-steven-matison.github.io/assets/images/ai-agents-in-data-platforms-for-dummies.jpeg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/AI-Agents-in-Data-Platforms-For-Dummies/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">AI Agents in Data Platforms For Dummies</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">How enterprise lakehouse platforms with open formats like Apache Iceberg support AI agent workloads — discovery, schema inspection, query generation, and the governance that keeps it all in check.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/How-to-Develop-with-the-Waveshare-AMOLED-ESP32-S3/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-08-25-waveshare-amoled-esp32-s3.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -28,45 +63,13 @@ You can click the Preview link to take a look at your changes.
 </table><table>
 <tr>
 <td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Hacking-The-Jetson/"><img src="https://cldr-steven-matison.github.io/assets/images/efm-nvidia-jetson.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streams-Messaging-Kubernetes-Operator-1.7/"><img src="https://cldr-steven-matison.github.io/assets/images/CSM-Cloudera_Streams_Messaging_Operator.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Hacking-The-Jetson/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Hacking The Jetson</a>
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streams-Messaging-Kubernetes-Operator-1.7/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Announcing Cloudera Streams Messaging Operator for Kubernetes v1.7</a>
 <br/>
-<p style="color:#8b949e; font-size:14px;">Customize Your NVIDIA Jetson Orin Nano and Turn It Up To the Max With AI</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Persistence-with-Cloudera-Streaming-Analytics-Operator/"><img src="https://cldr-steven-matison.github.io/assets/images/CSA-Cloudera_Streaming_Analytics_Operator.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Persistence-with-Cloudera-Streaming-Analytics-Operator/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Persistence with Cloudera Streaming Analytics Operator</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">How to make everything CSA writes to disk — SQL Stream Builder metadata, uploaded user artifacts, and Flink checkpoints, savepoints and HA state — survive pod restarts on Kubernetes.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Persistence-with-Cloudera-Flow-Management-Operator/"><img src="https://cldr-steven-matison.github.io/assets/images/CFM-Cloudera_Flow_Management_Operator.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Persistence-with-Cloudera-Flow-Management-Operator/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Persistence with Cloudera Flow Management Operator</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">How to make everything CFM writes to disk on Kubernetes — flow definitions, FlowFiles, content, provenance, cluster state, custom NARs, and Python extensions — survive pod restarts, rolling updates, and cluster reboots. Includes the migration from a fragile minikube mount at /extensions to a proper PersistentVolumeClaim.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/Disposable-Clusters-on-One-Box-The-minikube-Profile-Swap/"><img src="https://cldr-steven-matison.github.io/assets/images/Minikube-Profile-Swap.jpg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/Disposable-Clusters-on-One-Box-The-minikube-Profile-Swap/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Disposable Clusters on One Box: The minikube Profile Swap</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">How I proved MiNiFi → NiFi Site-to-Site without risking 123 days of a live Cloudera stack — a second, disposable minikube profile swapped in and out on the same box, with the long-lived cluster preserved untouched.</p>
+<p style="color:#8b949e; font-size:14px;">Cloudera’s Data In Motion Team is pleased to announce the release of the Cloudera Streams Messaging Operator for Kubernetes v1.7. This milestone release centers on a major platform update to Strimzi 1.0.1 and Apache Kafka 4.2.0, a redesigned Cloudera Surveyor experience, mandatory API standardization, and high-availability maintenance tooling with Strimzi Drain Cleaner.
+</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
