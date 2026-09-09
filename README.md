@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/Hacking-the-Petru/"><img src="https://cldr-steven-matison.github.io/assets/images/tuna-street-petru.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/Hacking-the-Petru/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Hacking the Petru</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">A desk gadget LED scrolls NOW PLAYING. I wanted TUNA STREET. No source, no schematic, no data USB — just a spare dev board as a probe, five strands of an Ethernet cable, and a 44-byte patch the bootloader accepts.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/release/Cloudera-Observability-for-Cloudera-AI-on-Public-Cloud/"><img src="https://cldr-steven-matison.github.io/assets/images/Observability-For-Cloudera-AI.jpeg" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -58,18 +69,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/How-to-Develop-with-the-Waveshare-AMOLED-ESP32-S3/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How to Develop with the Waveshare AMOLED ESP32-S3</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">I bought this AMOLED ESP32-S3 to build Cloudera Edge Flow Manager flows for modern microcontroller.  The board runs EFM in the firmware, owns its accelerometer, touch and speaker show up in EFM as processors, and a flow can read the glass and talk back to it.  Here&#39;s the development loop, the traps that each cost me an evening, and how the board becomes a fleet citizen.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streams-Messaging-Kubernetes-Operator-1.7/"><img src="https://cldr-steven-matison.github.io/assets/images/CSM-Cloudera_Streams_Messaging_Operator.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streams-Messaging-Kubernetes-Operator-1.7/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Announcing Cloudera Streams Messaging Operator for Kubernetes v1.7</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Cloudera’s Data In Motion Team is pleased to announce the release of the Cloudera Streams Messaging Operator for Kubernetes v1.7. This milestone release centers on a major platform update to Strimzi 1.0.1 and Apache Kafka 4.2.0, a redesigned Cloudera Surveyor experience, mandatory API standardization, and high-availability maintenance tooling with Strimzi Drain Cleaner.
-</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
