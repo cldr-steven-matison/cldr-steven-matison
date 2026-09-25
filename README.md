@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/How-to-Build-a-Native-NiFi-Processor-in-Java/"><img src="https://cldr-steven-matison.github.io/assets/images/QueryFlights.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/How-to-Build-a-Native-NiFi-Processor-in-Java/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How to Build a Native NiFi Processor in Java &lpar;the Read Side of Iceberg&rpar;</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">NiFi&#39;s Iceberg bundle is write-only. So I built GetIceberg — a native Java/NAR read processor that plugs the same RESTCatalogService and returns real rows from a CDP Data Share table.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/Hacking-the-Petru/"><img src="https://cldr-steven-matison.github.io/assets/images/tuna-street-petru.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -58,17 +69,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/AI-Agents-in-Data-Platforms-For-Dummies/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">AI Agents in Data Platforms For Dummies</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">How enterprise lakehouse platforms with open formats like Apache Iceberg support AI agent workloads — discovery, schema inspection, query generation, and the governance that keeps it all in check.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/How-to-Develop-with-the-Waveshare-AMOLED-ESP32-S3/"><img src="https://cldr-steven-matison.github.io/assets/images/2026-08-25-waveshare-amoled-esp32-s3.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/How-to-Develop-with-the-Waveshare-AMOLED-ESP32-S3/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How to Develop with the Waveshare AMOLED ESP32-S3</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">I bought this AMOLED ESP32-S3 to build Cloudera Edge Flow Manager flows for modern microcontroller.  The board runs EFM in the firmware, owns its accelerometer, touch and speaker show up in EFM as processors, and a flow can read the glass and talk back to it.  Here&#39;s the development loop, the traps that each cost me an evening, and how the board becomes a fleet citizen.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
