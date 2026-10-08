@@ -17,6 +17,28 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/The-Complete-Guide-to-Edge-Flow-Management/"><img src="https://cldr-steven-matison.github.io/assets/images/efm-cloudera-edge-management.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/The-Complete-Guide-to-Edge-Flow-Management/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">The Complete Guide to Edge Flow Management</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">NiFi in the datacenter is well documented. Edge Flow Manager is not, until now. 21 chapters, every one built and run on hardware.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/How-to-AI-with-MiNiFi/"><img src="https://cldr-steven-matison.github.io/assets/images/how-to-ai-with-minifi.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/How-to-AI-with-MiNiFi/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How to AI with MiNiFi</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">A MiNiFi edge agent that has no business hosting a model, doing AI work anyway, by routing to one instead of running it.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Services-On-Premises-1.5.5-SP4-Release/"><img src="https://cldr-steven-matison.github.io/assets/images/Cloudera-Data-Platform.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -47,30 +69,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Flow-3.2/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Flow 3.2</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">Cloudera is pleased to announce the release of Cloudera Data Flow 3.2 for Cloudera on Cloud, delivering major architectural modernization and eliminating friction across the development lifecycle. This release introduces zero-touch, cross-cluster authentication, smarter cloud resource management, and a massive upgrade to our underlying infrastructure to provide a more resilient, secure, and intuitive data streaming experience.
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streaming-Analytics-1.18.0/"><img src="https://cldr-steven-matison.github.io/assets/images/CSA-Cloudera_Streaming_Analytics_Operator.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streaming-Analytics-1.18.0/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Streaming Analytics 1.18.0</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">We are excited to announce the release of Cloudera Streaming Analytics 1.18.0 for Cloudera on premises 7.3.2.10000. This update reinforces our commitment to a stable, secure, and modern streaming offering by upgrading core components and enhancing source control capabilities.
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streaming-Analytics-Operator-for-Kubernetes-1.6.0-and-1.6.1/"><img src="https://cldr-steven-matison.github.io/assets/images/CSA-Cloudera_Streaming_Analytics_Operator.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Streaming-Analytics-Operator-for-Kubernetes-1.6.0-and-1.6.1/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Streaming Analytics Operator for Kubernetes 1.6.0 and 1.6.1</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">We are excited to announce the release of Cloudera Streaming Analytics Operator for Kubernetes 1.6.0, together with the 1.6.1 patch release. These updates reinforce our commitment to a stable, secure, and high-performance streaming offering on Kubernetes by moving to Apache Flink 1.20.5 and Flink Kubernetes Operator 1.13, while expanding deployment flexibility and security options for Apache Flink and Cloudera SQL Stream Builder.
 </p>
 </td>
 </tr>
