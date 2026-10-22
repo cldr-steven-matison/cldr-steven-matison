@@ -17,6 +17,18 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-Operator-for-Kubernetes-3.4/"><img src="https://cldr-steven-matison.github.io/assets/images/nifi-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-Operator-for-Kubernetes-3.4/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Flow Management Operator for Kubernetes 3.4</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">The Data In Motion Team is pleased to announce the release of Cloudera Flow Management Operator for Kubernetes version 3.4. This release focuses on maturing our custom resources, adding support for NiFi 2.11, and expanding security and operational controls through install-time namespace and role-based access control configurations.
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/The-Complete-Guide-to-Edge-Flow-Management/"><img src="https://cldr-steven-matison.github.io/assets/images/efm-cloudera-edge-management.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -57,18 +69,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Platform-7.3.2-Service-Pack-2/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Platform 7.3.2 Service Pack 2</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">Cloudera is thrilled to announce the General Availability of Cloudera Runtime 7.3.2 Service Pack 2 &lpar;SP2&rpar;, accelerating our vision of AI Anywhere, Cloud Anywhere, and Data Anywhere. This release extends the functionality of our Long-Term Support &lpar;LTS&rpar; 7.3.2 release to on-premises environments, providing a guaranteed operational runway through March 2032 and building on three strategic pillars: Modern Architectures, Hybrid Cloud, and Platform Fortification.
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Flow-3.2/"><img src="https://cldr-steven-matison.github.io/assets/images/nifi-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Flow-3.2/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Flow 3.2</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Cloudera is pleased to announce the release of Cloudera Data Flow 3.2 for Cloudera on Cloud, delivering major architectural modernization and eliminating friction across the development lifecycle. This release introduces zero-touch, cross-cluster authentication, smarter cloud resource management, and a massive upgrade to our underlying infrastructure to provide a more resilient, secure, and intuitive data streaming experience.
 </p>
 </td>
 </tr>
