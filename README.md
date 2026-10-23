@@ -17,6 +17,18 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-4.13.0.0/"><img src="https://cldr-steven-matison.github.io/assets/images/nifi-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-4.13.0.0/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Flow Management 4.13.0.0</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">The Data in Motion Team is pleased to announce the General Availability &lpar;GA&rpar; release of Cloudera Flow Management 4.13.0.0, which supports Apache NiFi 2.11 with Cloudera Manager on Cloudera on-premises and Cloudera on cloud &lpar;Data Hub&rpar; 7.3.2. This release includes critical enhancements and fixes from Cloudera Flow Management 4.12.0.0.
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-Operator-for-Kubernetes-3.4/"><img src="https://cldr-steven-matison.github.io/assets/images/nifi-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -57,18 +69,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Services-On-Premises-1.5.5-SP4-Release/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Services On Premises 1.5.5 SP4 Release</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">Cloudera Data Services 1.5.5 SP4 is now Generally Available, enhancing business continuity and accelerating AI capabilities across the platform. This release introduces full disaster recovery for Embedded Container Service clusters, native NVIDIA HGX/DGX and Multi-Instance GPU support, and a 100% reduction in known exploited vulnerabilities. Customers on SP2 or later can upgrade directly to SP4 without intermediate steps, ensuring a smoother transition to the latest features.
-</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Platform-7.3.2-Service-Pack-2/"><img src="https://cldr-steven-matison.github.io/assets/images/Cloudera-Data-Platform.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Platform-7.3.2-Service-Pack-2/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Platform 7.3.2 Service Pack 2</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Cloudera is thrilled to announce the General Availability of Cloudera Runtime 7.3.2 Service Pack 2 &lpar;SP2&rpar;, accelerating our vision of AI Anywhere, Cloud Anywhere, and Data Anywhere. This release extends the functionality of our Long-Term Support &lpar;LTS&rpar; 7.3.2 release to on-premises environments, providing a guaranteed operational runway through March 2032 and building on three strategic pillars: Modern Architectures, Hybrid Cloud, and Platform Fortification.
 </p>
 </td>
 </tr>
