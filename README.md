@@ -17,6 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/blog/How-To-Local-NiFi-Development-and-Cloudera-DataFlow-Deployment/"><img src="https://cldr-steven-matison.github.io/assets/images/local-nifi-to-dataflow.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/blog/How-To-Local-NiFi-Development-and-Cloudera-DataFlow-Deployment/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How To: Local NiFi Development and Cloudera DataFlow Deployment</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">Build a NiFi 2.x flow on a Kubernetes NiFi you control, then deploy the same flow to Cloudera DataFlow by swapping a Parameter Context and uploading the JDBC drivers as assets.</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-4.13.0.0/"><img src="https://cldr-steven-matison.github.io/assets/images/nifi-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -58,18 +69,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/How-to-AI-with-MiNiFi/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How to AI with MiNiFi</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">A MiNiFi edge agent that has no business hosting a model, doing AI work anyway, by routing to one instead of running it.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Services-On-Premises-1.5.5-SP4-Release/"><img src="https://cldr-steven-matison.github.io/assets/images/Cloudera-Data-Platform.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/release/Cloudera-Data-Services-On-Premises-1.5.5-SP4-Release/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Data Services On Premises 1.5.5 SP4 Release</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">Cloudera Data Services 1.5.5 SP4 is now Generally Available, enhancing business continuity and accelerating AI capabilities across the platform. This release introduces full disaster recovery for Embedded Container Service clusters, native NVIDIA HGX/DGX and Multi-Instance GPU support, and a 100% reduction in known exploited vulnerabilities. Customers on SP2 or later can upgrade directly to SP4 without intermediate steps, ensuring a smoother transition to the latest features.
-</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
