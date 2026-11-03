@@ -17,6 +17,18 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/cloudera-edge-management-c-agent-2.26.09/"><img src="https://cldr-steven-matison.github.io/assets/images/cloudera_ai_inference.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/cloudera-edge-management-c-agent-2.26.09/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Edge Management C++ Agent 2.26.09</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">The Data in Motion Team is pleased to announce the General Availability &lpar;GA&rpar; release of Cloudera Edge Management C++ Agent 2.26.09. This release offers new features and improvements as well as upgraded dependencies, which extend local AI inference capabilities at the edge.
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/blog/How-To-Local-NiFi-Development-and-Cloudera-DataFlow-Deployment/"><img src="https://cldr-steven-matison.github.io/assets/images/local-nifi-to-dataflow.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -58,17 +70,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://cldr-steven-matison.github.io/blog/The-Complete-Guide-to-Edge-Flow-Management/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">The Complete Guide to Edge Flow Management</a>
 <br/>
 <p style="color:#8b949e; font-size:14px;">NiFi in the datacenter is well documented. Edge Flow Manager is not, until now. 21 chapters, every one built and run on hardware.</p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/How-to-AI-with-MiNiFi/"><img src="https://cldr-steven-matison.github.io/assets/images/how-to-ai-with-minifi.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/How-to-AI-with-MiNiFi/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">How to AI with MiNiFi</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">A MiNiFi edge agent that has no business hosting a model, doing AI work anyway, by routing to one instead of running it.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
