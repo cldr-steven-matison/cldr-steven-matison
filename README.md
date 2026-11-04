@@ -17,6 +17,18 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START --><table>
 <tr>
 <td width="200" valign="top">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-2.1.7-Service-Pack-5/"><img src="https://cldr-steven-matison.github.io/assets/images/nifi-logo.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
+</td>
+<td align="left" valign="top" style="padding-left:10px;">
+<a href="https://cldr-steven-matison.github.io/release/Cloudera-Flow-Management-2.1.7-Service-Pack-5/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">Cloudera Flow Management 2.1.7 Service Pack 5</a>
+<br/>
+<p style="color:#8b949e; font-size:14px;">The Data in Motion team is pleased to announce the release of Cloudera Flow Management 2.1.7 Service Pack 5, based on Apache NiFi 1.28.1 and supporting Cloudera on-premises 7.3.2. This service pack improves stability and security by addressing bugs and upgrading dependencies, while also providing the NiFi 2 Pre-upgrade check to prepare for future migrations.
+</p>
+</td>
+</tr>
+</table><table>
+<tr>
+<td width="200" valign="top">
 <a href="https://cldr-steven-matison.github.io/release/cloudera-edge-management-c-agent-2.26.09/"><img src="https://cldr-steven-matison.github.io/assets/images/cloudera_ai_inference.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
 </td>
 <td align="left" valign="top" style="padding-left:10px;">
@@ -59,17 +71,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <p style="color:#8b949e; font-size:14px;">The Data In Motion Team is pleased to announce the release of Cloudera Flow Management Operator for Kubernetes version 3.4. This release focuses on maturing our custom resources, adding support for NiFi 2.11, and expanding security and operational controls through install-time namespace and role-based access control configurations.
 </p>
-</td>
-</tr>
-</table><table>
-<tr>
-<td width="200" valign="top">
-<a href="https://cldr-steven-matison.github.io/blog/The-Complete-Guide-to-Edge-Flow-Management/"><img src="https://cldr-steven-matison.github.io/assets/images/efm-cloudera-edge-management.png" width="200" style="border-radius:6px; border:1px solid #30363d;"></a>
-</td>
-<td align="left" valign="top" style="padding-left:10px;">
-<a href="https://cldr-steven-matison.github.io/blog/The-Complete-Guide-to-Edge-Flow-Management/" style="text-decoration:none; color:#58a6ff; font-family:sans-serif; font-size:16px; font-weight:600;">The Complete Guide to Edge Flow Management</a>
-<br/>
-<p style="color:#8b949e; font-size:14px;">NiFi in the datacenter is well documented. Edge Flow Manager is not, until now. 21 chapters, every one built and run on hardware.</p>
 </td>
 </tr>
 </table><!-- BLOG-POST-LIST:END -->
